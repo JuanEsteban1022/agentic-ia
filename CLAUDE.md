@@ -3,8 +3,8 @@
 > Plantilla inicial. En la **clase 2** la completas con tu producto y la vas mejorando en cada clase.
 
 ## Producto
-- Nombre: Turnos
-- En una frase: Evita que se crucen los horarios de las citas que hoy se agendan por WhatsApp, para dueños de peluquerías y consultorios pequeños (1 a 3 empleados): el cliente reserva un horario libre desde un enlace y el dueño ve su agenda del día.
+- Nombre: pinceladas-de-belleza (tentativo)
+- En una frase: Para dueños de ecommerce de maquillaje, elimina la ansiedad post-compra de las clientas y libera al equipo de soporte: conecta los pagos con el despacho en tiempo real y convierte WhatsApp en un canal de autogestión con escalamiento humano en un clic.
 - Fuentes de verdad, en este orden: `docs/ficha-idea.md` → `docs/prd.md` → `specs/` → `docs/adr/`.
 
 ## Cómo trabajamos
