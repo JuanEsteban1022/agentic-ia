@@ -36,3 +36,8 @@ Entradas nuevas **arriba**. No se reescriben las anteriores.
 - Aprendí: …
 - Pendiente: …
 ```
+
+### Clase 2 · Tu entorno y tu producto · 2026-11-24
+- Hicimos: ficha de la idea completa (`docs/ficha-idea.md`) y producto definido en `CLAUDE.md` (pinceladas-de-belleza).
+- Decisiones: usuario principal = la clienta (dueño y soporte como secundarios); demora actual estimada 1–2 días; línea base <20 % de consultas resueltas sin asesor, meta 70 %; negocio mediano (20–100 pedidos/día, 3–5 en soporte).
+- Siguiente paso: hacer commit de los ajustes pendientes y arrancar la clase 3 (PRD en `docs/prd.md`), validando las estimaciones con el negocio.

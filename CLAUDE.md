@@ -4,7 +4,7 @@
 
 ## Producto
 - Nombre: pinceladas-de-belleza (tentativo)
-- En una frase: Para dueños de ecommerce de maquillaje, elimina la ansiedad post-compra de las clientas y libera al equipo de soporte: conecta los pagos con el despacho en tiempo real y convierte WhatsApp en un canal de autogestión con escalamiento humano en un clic.
+- En una frase: Para clientas de ecommerce de maquillaje (y los dueños que las atienden), elimina la ansiedad post-compra y libera al equipo de soporte: conecta los pagos con el despacho en tiempo real y convierte WhatsApp en un canal de autogestión con escalamiento humano en un clic.
 - Fuentes de verdad, en este orden: `docs/ficha-idea.md` → `docs/prd.md` → `specs/` → `docs/adr/`.
 
 ## Cómo trabajamos
