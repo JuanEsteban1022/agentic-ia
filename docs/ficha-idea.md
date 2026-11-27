@@ -4,12 +4,16 @@
 En un ecommerce de maquillaje, las clientas hacen pedidos pero la empresa tarda en confirmar
 que el pago fue exitoso y en despachar el producto. La causa es que los pagos se revisan a mano.
 
-- Pendiente: tiempo promedio actual desde el pago hasta la confirmación y desde la confirmación hasta el despacho.
+- Demora actual estimada: **1 a 2 días** desde que la clienta paga hasta que el pedido sale despachado (estimación del negocio, por validar).
 
 ## 2. Para quién
-Usuario principal: **el dueño del ecommerce de maquillaje**.
+Usuario principal: **la clienta que compra en el ecommerce de maquillaje** y quiere saber, sin esperar, si su pago se confirmó y cuándo llega su pedido.
 
-- Pendiente: tamaño del negocio (pedidos por día, personas del equipo).
+Usuarios secundarios:
+- **El dueño del ecommerce**: decide la compra del producto y sufre los reclamos por la demora.
+- **El equipo de soporte (asesoras)**: atiende los casos que se escalan.
+
+Tamaño del negocio (estimado): **mediano**, de 20 a 100 pedidos por día y de 3 a 5 personas en soporte.
 
 ## 3. Cómo lo resuelven hoy y qué duele
 - Las consultas posteriores a la compra se atienden por WhatsApp con chatbots ineficientes, que dan pocas opciones a la clienta.
@@ -24,7 +28,7 @@ en un canal de autogestión inteligente, con escalamiento a una persona en un cl
 ## 5. Métrica de éxito
 **70 % de las consultas de WhatsApp resueltas sin asesor.**
 
-- Pendiente: porcentaje actual (línea base).
+- Línea base estimada: hoy **menos del 20 %** de las consultas se resuelven sin asesor (por medir antes de lanzar).
 
 ## 6. Qué NO es
 - NO es un ERP ni un software contable complejo.
